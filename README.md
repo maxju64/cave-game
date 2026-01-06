@@ -2,7 +2,7 @@
 
 ---
 
-Simple game where you control a single ascii character to move around the frame.
+Simple game where you control a single ASCII character to move around the frame.
 
 # Build from source
 
